@@ -15,7 +15,7 @@ color: white;
 }
 p{
 font-family: 'Bree Serif', serif;
-font-size: 18px;
+font-size: 15px;
 }
 h2{
 font-family: 'Josefin Sans', sans-serif;
@@ -25,7 +25,7 @@ font-size: 40px;
 ol{
 margin-left: 100px;
 font-family: 'Bree Serif', serif;
-font-size: 18px;
+font-size: 15px;
 }
 header img{
 border-radius: 174px;
@@ -44,7 +44,7 @@ text-align: center;
 box-shadow: 10px 10px 15px #f280a3;
 }
 p.cap3on{
-font-size: 20px;
+font-size: 15px;
 color: #eb4b7b;
 font-style: italic;
 font-family: 'Josefin Sans', sans-serif;
